@@ -1,8 +1,6 @@
-# OpsFree Internship Challenge
+# OpsFree Data Science Challenge
 
-### Data Science Internship Challenge
-
-Welcome to the repository for the OpsFree Data Science Internship Challenge. In this project, I conducted a comprehensive Exploratory Data Analysis (EDA) on microservice tracing data.
+Welcome to the repository for the OpsFree Data Science Challenge. In this project, I conducted a comprehensive Exploratory Data Analysis (EDA) on microservice tracing data.
 
 ---
 

@@ -37,7 +37,7 @@ This challenge involves performing an in-depth EDA to uncover insights from the 
    pip install -r requirements.txt
 3. **Run the Jupyter Notebook**:
    ```bash
-   internship_task.ipynb
+   eda_notebook.ipynb
 
 ---
 

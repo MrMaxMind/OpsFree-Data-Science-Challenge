@@ -30,7 +30,7 @@ This challenge involves performing an in-depth EDA to uncover insights from the 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/OpsFree-Internship-Challenge.git
+   git clone https://github.com/MrMaxMind/OpsFree-Internship-Challenge.git
    cd OpsFree-Internship-Challenge
 2. **Install the required packages**:
    ```bash
